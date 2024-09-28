@@ -17,7 +17,7 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 
 ## How to Cite
 If you use this dataset in your work, please cite it as follows:
-- Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. [link to your repository]
+- Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. [[[]](https://github.com/jadealx)]
 
 ## Contributing
 If you would like to suggest improvements or contribute, please do so through a pull request. All changes will be reviewed before being merged into the main branch.
