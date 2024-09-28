@@ -15,6 +15,9 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 - NonCommercial: You may not use the material for commercial purposes.
 - NoDerivatives: If you remix, transform, or build upon the material, you may not distribute the modified material.
 
+ ## Visualization 
+ If you'd like to see my visualization of this dataset, check it out on [Tableau Public] ([](https://tinyurl.com/2s3kfyf2) 
+
 ## How to Cite
 If you use this dataset in your work, please cite it as follows:
 - Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. [[[]](https://github.com/jadealx)]
