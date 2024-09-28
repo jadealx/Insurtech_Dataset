@@ -16,14 +16,14 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
 - NoDerivatives: If you remix, transform, or build upon the material, you may not distribute the modified material.
 
  ## Visualization 
- If you'd like to see my visualization of this dataset, check it out on Tableau Public [([](https://tinyurl.com/2s3kfyf2)]
+ If you'd like to see my visualization of this dataset, check it out on Tableau Public (https://tinyurl.com/2s3kfyf2)
 
 ## How to Cite
 If you use this dataset in your work, please cite it as follows:
-- Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. [[[]](https://github.com/jadealx)]
+- Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. (https://github.com/jadealx)
 
 ## Contributing
 If you would like to suggest improvements or contribute, please do so through a pull request. All changes will be reviewed before being merged into the main branch.
 
 ## Contact
-For any inquiries or questions, please reach out to me on LinkedIn: [[[]](https://www.linkedin.com/in/jade-alexander-/)]
+For any inquiries or questions, please reach out to me on LinkedIn: (https://www.linkedin.com/in/jade-alexander-/)
