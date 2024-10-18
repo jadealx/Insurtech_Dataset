@@ -18,8 +18,6 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-N
  ## Visualization 
  If you'd like to see my visualization of this dataset, check it out on Tableau Public (https://tinyurl.com/2s3kfyf2)
 
- ## Note
- While I have gained valuable experience creating this project, my current focus is on the retail industry. As I continue to grow in data analytics, I am shifting my efforts toward projects that align more closely with my interests and career goals in retail. Thank you for your interest.
 ## How to Cite
 If you use this dataset in your work, please cite it as follows:
 - Jade Alexander. (2024). Insurtech Customer Data Dataset. GitHub repository. (https://github.com/jadealx)
