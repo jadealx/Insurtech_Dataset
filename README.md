@@ -25,5 +25,4 @@ If you use this dataset in your work, please cite it as follows:
 ## Contributing
 If you would like to suggest improvements or contribute, please do so through a pull request. All changes will be reviewed before being merged into the main branch.
 
-## Contact
-For any inquiries or questions, please reach out to me on LinkedIn: (https://www.linkedin.com/in/jade-alexander-/)
+
